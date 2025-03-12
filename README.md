@@ -1,0 +1,5 @@
+- Build Bluetooth Low Energy (BLE) Firmware for different use cases
+- Create your own Services and Characteristics
+- Understand the Build Bluetooth Low Energy (BLE) stack
+- Build Bluetooth Low Energy (BLE) Embedded Devices
+- Send sensor data between devices using Build Bluetooth Low Energy (BLE)
