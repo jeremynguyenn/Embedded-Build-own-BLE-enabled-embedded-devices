@@ -1,0 +1,9 @@
+services.c:37:12:add_services	88	static
+services.c:65:6:receive_data	24	static
+services.c:91:6:send_data	32	static
+services.c:101:6:Attribute_Modified_CB	16	static
+services.c:123:6:aci_gatt_attribute_modified_event	24	static
+services.c:133:6:aci_gatt_notification_event	24	static
+services.c:146:6:hci_le_connection_complete_event	24	static
+services.c:165:6:hci_le_disconnection_complete_event	16	static
+services.c:178:6:APP_UserEvtRx	40	static

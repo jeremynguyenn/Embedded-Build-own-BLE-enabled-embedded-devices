@@ -1,0 +1,2 @@
+app_bluenrg.c:13:6:bluenrg_init	80	static
+app_bluenrg.c:61:6:bluenrg_process	16	static

@@ -1,0 +1,7 @@
+services.c:22:12:add_simple_service	80	static
+services.c:39:6:update_data	32	static
+services.c:62:6:Read_Request_CB	24	static
+services.c:74:6:aci_gatt_read_permit_req_event	16	static
+services.c:83:6:hci_le_connection_complete_event	24	static
+services.c:102:6:hci_le_disconnection_complete_event	16	static
+services.c:115:6:APP_UserEvtRx	40	static
